@@ -81,3 +81,24 @@ Detect potential quality risks
 Support evidence-based process improvement
 
 Provide management with a consolidated quality-performance view
+
+Data/
+[TANMA_QC_Project_Synthetic_Data.xlsx](https://github.com/user-attachments/files/31232117/TANMA_QC_Project_Synthetic_Data.xlsx)
+
+sql/
+[TANMA PROJECT.sql](https://github.com/user-attachments/files/31232123/TANMA.PROJECT.sql)
+
+Dashboard/
+<img width="962" height="544" alt="Root Cause Analysis" src="https://github.com/user-attachments/assets/2855edbc-49cc-43aa-9eed-1ea396e143f0" />
+<img width="962" height="544" alt="QC Performance" src="https://github.com/user-attachments/assets/d63be2eb-2563-4782-a0bf-f97237219ac8" />
+<img width="961" height="541" alt="Production Risk Intelligence" src="https://github.com/user-attachments/assets/561895ec-a809-4760-8fde-3d4475f33db3" />
+<img width="964" height="548" alt="Inspector Performance" src="https://github.com/user-attachments/assets/3b1dafb8-b953-401d-abb6-7b72f06c95b1" />
+
+Documentation/
+[PROBLEM STATEMENT.pptx](https://github.com/user-attachments/files/31232177/PROBLEM.STATEMENT.pptx)
+
+👤 Author
+
+Oluseun Olamide
+
+Data Analyst | Quality & Operations Analytics
